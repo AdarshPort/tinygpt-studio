@@ -9,7 +9,7 @@ experiment tracking, checkpointing, evaluation, and interactive deployment.
 
 ## Live demo
 Try the trained model here:
-https://huggingface.co/spaces/YOUR_USERNAME/tinygpt-studio
+https://tinygpt-studio-adarsh.streamlit.app/
 
 ## What I built
 - A character-level GPT-style transformer implemented in PyTorch
@@ -79,4 +79,5 @@ streamlit run app.py
 - Benchmark multiple model sizes
 - Add automated tests
 - Deploy with Docker
+
 - Add model quantization
